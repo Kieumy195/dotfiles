@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dang.kieumy@bcg.com
+	name = Kieu-My Dang
